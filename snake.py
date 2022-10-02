@@ -1,5 +1,6 @@
 #Snake Tutorial Python
- 
+
+from logging import root 
 import math
 import random
 import pygame
